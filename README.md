@@ -5,9 +5,9 @@
 - 💞️ I’m looking to collaborate on with people 
 - 📫 How to reach me --> Catch me on LinkedIn -> Viswajith S
 - 😄 Pronouns: Confused 
-- ⚡ Fun fact: A YouTube aspired boy who learned what he has now from YouTube 
+- ⚡ Fun fact: A YouTube aspired boy who learned what he has now from YouTube 🤗
 
 <!---
-VJ13SS/VJ13SS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here i am sharing my coding Projects and hope you Like it...
 You can click the Preview link to take a look at your changes.
 --->
