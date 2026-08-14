@@ -5,7 +5,7 @@ Software Developer • Full Stack Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
-🎓 B.Tech ECE Graduate with a Minor in Machine Learning <br>
+🎓 MTech CSE Student <br>
 🏫 NSS College of Engineering, Palakkad <br>
 💡 Passionate about Software Engineering, Full Stack Development, AI/ML, and Scalable Systems
 </p>
